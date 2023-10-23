@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbc02054c4243de2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "4e3cb41776d294a1",
+            "id": "56a1878f1d0b8811",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pendientes.md",
+                "file": "2023-10-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pendientes.md",
+                "file": "2023-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pendientes.md",
+                "file": "2023-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pendientes.md"
+                "file": "2023-10-23.md"
               }
             }
           }
@@ -155,11 +146,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4e3cb41776d294a1",
+  "active": "56a1878f1d0b8811",
   "lastOpenFiles": [
+    "Dev Studies 👨‍💻/Python 🐍/Python Global🌎.md",
+    "2023-10-23.md",
+    "Dev Studies 👨‍💻/Python 🐍",
     "Sin título.canvas",
-    "hola mundo.md",
     "Pendientes.md",
+    "Dev Studies 👨‍💻",
+    "hola mundo.md",
     "22.md",
     "Hola.md",
     "2023-10-15.md"
