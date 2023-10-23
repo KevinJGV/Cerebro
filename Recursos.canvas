@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"98f9de626e2c79fb","x":81,"y":-97,"width":640,"height":360,"color":"1","type":"link","url":"https://youtu.be/HUMCjQufH6s?si=tl65J9a5qJJpBWPU"},
+		{"id":"49e2d76b74611cc3","x":120,"y":-280,"width":489,"height":80,"color":"1","type":"text","text":"**🔴 Importante tener este recurso presente, tanto como respaldo como orientación fundamental** "}
+	],
+	"edges":[
+		{"id":"105c9102c0126b61","fromNode":"49e2d76b74611cc3","fromSide":"bottom","toNode":"98f9de626e2c79fb","toSide":"top","color":"1"}
+	]
+}
